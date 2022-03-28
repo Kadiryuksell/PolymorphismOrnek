@@ -1,0 +1,10 @@
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\bin\Debug\calisan.exe.config
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\bin\Debug\calisan.exe
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\bin\Debug\calisan.pdb
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\obj\Debug\calisan.csproj.AssemblyReference.cache
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\obj\Debug\calisan.frmPanel.resources
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\obj\Debug\calisan.Properties.Resources.resources
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\obj\Debug\calisan.csproj.GenerateResource.cache
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\obj\Debug\calisan.csproj.CoreCompileInputs.cache
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\obj\Debug\calisan.exe
+C:\Users\Kadır\Desktop\Calisan\calisan\calisan\obj\Debug\calisan.pdb
